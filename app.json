@@ -1,6 +1,6 @@
 {
-  "name": "Javes 2.0",
-  "description": "Javes 2.0 is a Telegram userbot that running on Python , It help you to manage your telegram easily ",
+  "name": "howl cs",
+  "description": "howl cs is a Telegram userbot that running on Python , It help you to manage your telegram easily ",
   "logo": "https://telegra.ph/file/9a8075c07a133f07305c6.jpg",
   "keywords": [
     "telegram",
@@ -66,7 +66,7 @@
     },
     "PROFILE_PP": {
       "description": "Your photo link for !autopic command",
-      "value": "https://telegra.ph/file/edc2836f4353c6b01bcb4.jpg",
+      "value": "https://telegra.ph/file/175bec2854838e5237c41.jpg",
       "required": false
      
     
@@ -155,13 +155,13 @@
       },
     "ALIVE_S_MESSAGE": {
       "description": "Edit if you want",
-      "value": "I am Alive my Master!",
+      "value": "𝐇𝐲 𝐝𝐮𝐝𝐞 🤘 𝐈 𝐚𝐦 𝐀𝐥𝐢𝐯𝐞 𝐍𝐨𝐰 @iAmLiKu1",
       "required": false
       
       },
     "ALIVE_E_MESSAGE": {
       "description": "Edit if you want",
-      "value": "Databases functioning normally!!",
+      "value": "𝐈 𝐚𝐦 𝐇𝐨𝐰𝐥 𝐚 𝐏𝐫𝐨 𝐔𝐬𝐞𝐫𝐁𝐨𝐭 𝐁𝐲 @iAmLiKu1 😎",
       "required": false
       
       },
@@ -173,13 +173,13 @@
       },
     "JAVES_NAME": {
       "description": "You can edit bot's name",
-      "value": "Javes 2.0",
+      "value": "𝗛𝗼𝘄𝗹 𝗖𝘀",
       "required": false
     
     },
     "PM_MESSAGE": {
       "description": "you can edit what pm_protecter message!",
-      "value": "Hello Sir, I can't allow you to my master's PM without his permissions please be patient, Thankyou",
+      "value": "𝐇𝐞𝐥𝐥𝐨 𝐒𝐢𝐫, 𝐈 𝐜𝐚𝐧'𝐭 𝐚𝐥𝐥𝐨𝐰 𝐲𝐨𝐮 𝐭𝐨 𝐦𝐲 𝐦𝐚𝐬𝐭𝐞𝐫'𝐬 𝐏𝐌 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐡𝐢𝐬 𝐩𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬 𝐩𝐥𝐞𝐚𝐬𝐞 𝐛𝐞 𝐩𝐚𝐭𝐢𝐞𝐧𝐭, 𝐓𝐡𝐚𝐧𝐤𝐲𝐨𝐮",
       "required": false
       
     },
@@ -192,14 +192,14 @@
     },
     "AFK_MESSAGE": {
       "description": "Edit if you want!",
-      "value": "Hello Sir, My master offline just leave your message, Thankyou!",
+      "value": "𝐇𝐞𝐥𝐥𝐨 𝐒𝐢𝐫, 𝐌𝐲 𝐦𝐚𝐬𝐭𝐞𝐫 𝐨𝐟𝐟𝐥𝐢𝐧𝐞 𝐣𝐮𝐬𝐭 𝐥𝐞𝐚𝐯𝐞 𝐲𝐨𝐮𝐫 𝐦𝐞𝐬𝐬𝐚𝐠𝐞, 𝐓𝐡𝐚𝐧𝐤𝐲𝐨𝐮!",
       "required": false
            
       
     },
     "BLOCK_MESSAGE": {
       "description": "Edit if you want!",
-      "value": "I am not going to allow you to spam My master's PM, You have been blocked!",
+      "value": "𝐈 𝐚𝐦 𝐧𝐨𝐭 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐚𝐥𝐥𝐨𝐰 𝐲𝐨𝐮 𝐭𝐨 𝐬𝐩𝐚𝐦 𝐌𝐲 𝐦𝐚𝐬𝐭𝐞𝐫'𝐬 𝐏𝐌, 𝐘𝐨𝐮 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐛𝐥𝐨𝐜𝐤𝐞𝐝!",
       "required": false
       
     
