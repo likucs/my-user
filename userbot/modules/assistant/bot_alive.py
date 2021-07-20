@@ -6,7 +6,7 @@ currentversion = "1.0"
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Javes"
-PM_IMG = "https://telegra.ph/file/2f2b8d40e3f2fa4acdc8f.mp4"
+PM_IMG = "https://telegra.ph/file/2af51be858db592dca309.jpg"
 pm_caption = "➥ **ASSISTANT IS:** `ONLINE`\n\n"
 pm_caption += "➥ **SYSTEMS STATS**\n"
 pm_caption += "➥ **Telethon Version:** `1.15.0` \n"
@@ -18,7 +18,7 @@ pm_caption += f"➥ **My Boss** : {DEFAULTUSER} \n"
 pm_caption += "➥ **Heroku Database** : `AWS - Working Properly`\n\n"
 pm_caption += "➥ **License** : [GNU General Public License v3.0](https://github.com/KeinShin/Black-Lightning/blob/master/LICENSE)\n"
 pm_caption += "➥ **Copyright** : By [Javes](GitHub.com/Javes786)\n"
-pm_caption += "[Assistant By Javes 🇮🇳](https://telegra.ph/file/2f2b8d40e3f2fa4acdc8f.mp4)"
+pm_caption += "[Assistant By Javes 🇮🇳](https://telegra.ph/file/2af51be858db592dca309.jpg)"
 
 
 @tgbot.on(events.NewMessage(pattern="^/alive", func=lambda e: e.sender_id == bot.uid))
