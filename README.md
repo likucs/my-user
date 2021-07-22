@@ -54,8 +54,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://repl.it/@Javes786/Javes-20-String-session#main.py)
 
 
-# Credit
-<h2 align="center"><b>OwNeR <a href="https://telegram.dog/iAmLiKu1">ͥ ͣ ͫ❥ℭ𝐒𓆩‎ⱧỞὦᏝ𓆪</a></b></h2>
+<h2 align="center"><b>Credit <a href="https://telegram.dog/iAmLiKu1">ͥ ͣ ͫ❥ℭ𝐒𓆩‎ⱧỞὦᏝ𓆪</a></b></h2>
 
 
 
