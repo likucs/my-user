@@ -55,7 +55,7 @@
 
 
 # Credit
-[LikuCs](https://github/likucs.com)
+[![LikuCs](https://github/likucs)
 
 
 
