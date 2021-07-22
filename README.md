@@ -55,7 +55,7 @@
 
 
 # Credit
-Special Thanks To Our contributors likucs , Pro Boy , Danish00 , Shivam , Shiwa ,Pawan And Anmol.
+[LikuCs](https://github/likucs.com)
 
 
 
