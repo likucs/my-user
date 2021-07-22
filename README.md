@@ -5,8 +5,8 @@
    <br>
    <br>
 </p>
-<h1>JAVES 2.0</h1>
-<b>Javes 2.0 is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
+<h1>My-User</h1>
+<b>My-User is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
 <br>
 <br>
 
@@ -55,7 +55,7 @@
 
 
 # Credit
-Special Thanks To Our contributors Pro Boy , Danish00 , Shivam , Shiwa ,Pawan And Anmol.
+Special Thanks To Our contributors likucs , Pro Boy , Danish00 , Shivam , Shiwa ,Pawan And Anmol.
 
 
 
@@ -66,7 +66,7 @@ Simply copy these commands and paste in Termux:
 apt-get upgrade -y
 pkg upgrade -y
 pkg install python wget -y
-wget https://raw.githubusercontent.com/Javes786/javes-2.0/main/telesetup.py
+wget https://raw.githubusercontent.com/likucs/my-user/main/telesetup.py
 pip install telethon
 python telesetup.py
 ```
@@ -83,7 +83,7 @@ python telesetup.py
     
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Javes-2.0 User Bot will not work without setting the mandatory vars.
+[+] The my-user User Bot will not work without setting the mandatory vars.
 ```
 
 
