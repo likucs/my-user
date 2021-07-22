@@ -1,8 +1,7 @@
 <h2 align="center"><b>OwNeR <a href="https://telegram.dog/iAmLiKu1">ͥ ͣ ͫ❥ℭ𝐒𓆩‎ⱧỞὦᏝ𓆪</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/c200988c3a5a82b1d96e9.jpg
-" alt="JAVES 2.0" width=400px></a>
+   <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/c200988c3a5a82b1d96e9.jpg" alt="JAVES 2.0" width=400px></a>
    <br>
    <br>
 </p>
