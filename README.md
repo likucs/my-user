@@ -55,7 +55,7 @@
 
 
 # Credit
-<h1>[[LikuCs](https://github/likucs)<h1>
+<h2 align="center"><b>OwNeR <a href="https://telegram.dog/iAmLiKu1">ͥ ͣ ͫ❥ℭ𝐒𓆩‎ⱧỞὦᏝ𓆪</a></b></h2>
 
 
 
